@@ -18,4 +18,6 @@
         android:id="@+id/joinBtn"
         android:text="회원가입"/>
 
+    testsssss
+
 </LinearLayout>
