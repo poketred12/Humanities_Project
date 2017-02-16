@@ -16,12 +16,15 @@
             android:layout_height="wrap_content"
             android:text="2017.02.16"
             android:textSize="24dp"
+            android:textColor="#011627"
+            android:textStyle="italic"
             android:textAlignment="center"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="GAME 1"
+            android:text="단어 맞추기"
             android:textSize="24dp"
+            android:textColor="#011627"
             android:textAlignment="center"/>
 
     </LinearLayout>
@@ -37,20 +40,24 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="03"
-            android:textSize="30dp" />
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textColor="#2d4762"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text=" : "
-            android:textSize="30dp" />
+            android:textSize="30dp"
+            android:textColor="#011627" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="14"
-            android:textSize="30dp" />
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:textColor="#2d4762"/>
 
     </LinearLayout>
-
 
 
     <LinearLayout
@@ -64,12 +71,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="88"
-            android:textSize="30dp" />
+            android:textColor="#2d4762"
+            android:textSize="30dp"
+            android:textStyle="bold"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text=" %"
-            android:textSize="30dp" />
+            android:textSize="30dp"
+            android:textColor="#011627"/>
 
     </LinearLayout>
 
